@@ -20,12 +20,12 @@ ABC Bank wants to sell it's term deposit product to customers and before launchi
 
 ## Dataset Info :-
 
-* Number of records: 45,211
-* Number of features: 17
+1) bank-additional-full.csv with all examples (41188),
+2) bank-additional.csv with 10% of the examples (4119).
 
 ## The dataset contains features like :-
 
-**Bank Client data : **
+**Bank Client data :**
 
 `Age :-` This is age of client.
 
